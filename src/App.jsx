@@ -1,3 +1,4 @@
+import Button from "./components/Button"
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
      <h1>
       Vite + React
      </h1>
+     <Button text={"Click Me"}/>
     </>
   )
 }
